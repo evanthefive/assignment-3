@@ -1,0 +1,70 @@
+
+
+html {
+  background-color: #C4B7A8;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 3rem;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'Chango', cursive;
+  line-height: 1.5;
+  color: #3B2F10;
+}
+
+
+h2{
+  font-weight: normal;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Chango', cursive;
+  line-height: 1.5;
+  color: #63583F;
+}
+
+
+ol {
+  list-style-type: lower-roman; /* none, decimal, lower-roman, lower alpha, disc, circle, square */
+  line-height: 1; /* multiplier */
+  color: green;
+}
+
+a {
+  color: green;
+}
+
+figcaption {
+  font-size: .8rem;
+  font-style: italic;
+}
+
+dt {
+  color: green;
+}
+
+nav ol {
+  padding: 0;
+}
+
+footer ol {
+  list-style-type: circle;
+}
+
+b {
+  color: #63583F;
+  font-weight: normal;
+}
+
+blockquote {
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #266E2A;
+}
+
+div {
+  text-align: right;
+  font-size: 1rem;
+  color: #266E2A;
+}
